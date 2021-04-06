@@ -1,0 +1,26 @@
+Pintu 3 KRB, -6.59577, 106.80434
+Tugu Kujang, -6.60142, 106.80503
+Pintu Masuk KRB, -6.60308, 106.79886
+Bogor Trade Mall (BTM), -6.60430, 106.79663
+McD Djuanda, -6.60104, 106.79500
+SMAN 1 Bogor, -6.59669, 106.79385
+Regina Pacis, -6.59300, 106.79719
+Taman Sempur, -6.59222, 106.80084
+Taman Air Mancur, -6.58141, 106.79674
+Plaza Jambu Dua, -6.56898, 106.80909
+Baso Seuseupan, -6.58086, 106.80678
+Stasiun Bogor, -6.59602, 106.79033
+---
+Tugu Kujang, Pintu Masuk KRB
+Pintu Masuk KRB, Bogor Trade Mall (BTM)
+Bogor Trade Mall (BTM), SMAN 1 Bogor
+SMAN 1 Bogor, Stasiun Bogor
+SMAN 1 Bogor, Regina Pacis
+Regina Pacis, Taman Sempur
+Regina Pacis, Taman Air Mancur
+Stasiun Bogor, Taman Air Mancur
+Taman Sempur, Pintu 3 KRB
+Pintu 3 KRB, Tugu Kujang
+Pintu 3 KRB, Baso Seuseupan
+Plaza Jambu Dua, Taman Air Mancur
+Plaza Jambu Dua, Baso Seuseupan
