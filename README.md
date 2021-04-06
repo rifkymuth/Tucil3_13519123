@@ -2,6 +2,7 @@
 Astar Path Finder is a simple program that show the shortest route from input map. Shortest route is generated using a* algorithm. The program is build using python and jupyter notebook to print the graph representing the input map.
 
 ## Prerequisites
+- python v3.8.x
 - jupyter notebook
 `pip install jupyter`
 - networkx
