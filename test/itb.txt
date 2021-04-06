@@ -1,0 +1,24 @@
+Rumah Sakit Borromeus,-6.893745,107.612981
+Gerbang Depan ITB,-6.893221,107.610455
+Pertigaan A,-6.893867,107.608441
+Kebun Binatang,-6.890791,107.608071
+Gerbang Belakang ITB,-6.887354,107.611425
+PSTNT Batan,-6.887951,107.608231
+Gelap Ngawang,-6.894779,107.610370
+Dayang Sumbi,-6.88745,107.61362
+McD,-6.88515,107.61373
+---
+Gerbang Depan ITB, Gerbang Belakang ITB
+Gerbang Depan ITB, Pertigaan A
+Gerbang Depan ITB, Rumah Sakit Borromeus
+Pertigaan A, Gelap Ngawang
+Pertigaan A, Kebun Binatang
+Gelap Ngawang, Rumah Sakit Borromeus
+Rumah Sakit Borromeus, Dayang Sumbi
+Kebun Binatang, PSTNT Batan
+PSTNT Batan, Gerbang Belakang ITB
+Gerbang Belakang ITB, Dayang Sumbi
+Gerbang Belakang ITB, McD
+McD, Dayang Sumbi
+
+
